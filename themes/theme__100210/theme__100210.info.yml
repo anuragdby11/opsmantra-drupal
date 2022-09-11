@@ -1,0 +1,143 @@
+name: theme__100210
+type: theme
+base theme:  false
+# version: "1.0"
+# core: 8.x
+core_version_requirement: ^8 || ^9
+libraries:
+ - theme__100210/global-styling-and-scripts
+regions:
+ header: Header
+ primary_menu: 'Primary menu'
+ secondary_menu: 'Secondary menu'
+ page_top: 'Page top'
+ page_bottom: 'Page bottom'
+ featured_top: 'Featured top'
+ content: 'Content'
+ headerabovecolumn1: 'HAxyz00'
+ headerabovecolumn2: 'HAxyz01'
+ headerabovecolumn3: 'HAxyz02'
+ headerabovecolumn4: 'HAxyz03'
+ headerbelowcolumn1: 'Region'
+ headerbelowcolumn2: 'HBxyz01'
+ headerbelowcolumn3: 'HBxyz02'
+ headerbelowcolumn4: 'HBxyz03'
+ headershape00: 'headershape00'
+ menuabovecolumn1: 'MAxyz00'
+ menuabovecolumn2: 'MAxyz01'
+ menuabovecolumn3: 'MAxyz02'
+ menuabovecolumn4: 'MAxyz03'
+ menubelowcolumn1: 'MBxyz00'
+ menubelowcolumn2: 'MBxyz01'
+ menubelowcolumn3: 'MBxyz02'
+ menubelowcolumn4: 'MBxyz03'
+ contenttopcolumn1: 'CAxyz00'
+ contenttopcolumn2: 'CAxyz01'
+ contenttopcolumn3: 'CAxyz02'
+ contenttopcolumn4: 'CAxyz03'
+ contentbottomcolumn1: 'CBxyz00'
+ contentbottomcolumn2: 'CBxyz01'
+ contentbottomcolumn3: 'CBxyz02'
+ contentbottomcolumn4: 'CBxyz03'
+ footerabovecolumn1: 'FAxyz00'
+ footerabovecolumn2: 'FAxyz01'
+ footerabovecolumn3: 'FAxyz02'
+ footerabovecolumn4: 'FAxyz03'
+ footercellcolumn1: 'abc01'
+ footercellcolumn2: 'abc12'
+ footercellcolumn3: 'abc23'
+ footercellcolumn4: 'abc34'
+ footerbelowcolumn1: 'FBxyz00'
+ footerbelowcolumn2: 'FBxyz01'
+ footerbelowcolumn3: 'FBxyz02'
+ footerbelowcolumn4: 'FBxyz03'
+ leftfooterarea: 'Left Footer Area'
+ centerfooterarea: 'Center Footer Area'
+ rightfooterarea: 'Right Footer Area'
+settings: 
+ features: 
+  menu_headerabovecolumn1: false 
+  style_headerabovecolumn1: false 
+  menu_headerabovecolumn2: false 
+  style_headerabovecolumn2: false 
+  menu_headerabovecolumn3: false 
+  style_headerabovecolumn3: false 
+  menu_headerabovecolumn4: false 
+  style_headerabovecolumn4: false 
+  menu_headerbelowcolumn1: false 
+  style_headerbelowcolumn1: false 
+  menu_headerbelowcolumn2: false 
+  style_headerbelowcolumn2: false 
+  menu_headerbelowcolumn3: false 
+  style_headerbelowcolumn3: false 
+  menu_headerbelowcolumn4: false 
+  style_headerbelowcolumn4: false 
+  menu_headershape00: false 
+  style_headershape00: false  
+  menu_menuabovecolumn1: false 
+  style_menuabovecolumn1: false 
+  menu_menuabovecolumn2: false 
+  style_menuabovecolumn2: false 
+  menu_menuabovecolumn3: false 
+  style_menuabovecolumn3: false 
+  menu_menuabovecolumn4: false 
+  style_menuabovecolumn4: false 
+  menu_menubelowcolumn1: false 
+  style_menubelowcolumn1: false 
+  menu_menubelowcolumn2: false 
+  style_menubelowcolumn2: false 
+  menu_menubelowcolumn3: false 
+  style_menubelowcolumn3: false 
+  menu_menubelowcolumn4: false 
+  style_menubelowcolumn4: false 
+  menu_contenttopcolumn1: false 
+  style_contenttopcolumn1: false 
+  menu_contenttopcolumn2: false 
+  style_contenttopcolumn2: false 
+  menu_contenttopcolumn3: false 
+  style_contenttopcolumn3: false 
+  menu_contenttopcolumn4: false 
+  style_contenttopcolumn4: false 
+  menu_contentbottomcolumn1: false 
+  style_contentbottomcolumn1: false 
+  menu_contentbottomcolumn2: false 
+  style_contentbottomcolumn2: false 
+  menu_contentbottomcolumn3: false 
+  style_contentbottomcolumn3: false 
+  menu_contentbottomcolumn4: false 
+  style_contentbottomcolumn4: false 
+  menu_footerabovecolumn1: false 
+  style_footerabovecolumn1: false  
+  menu_footerabovecolumn2: false 
+  style_footerabovecolumn2: false  
+  menu_footerabovecolumn3: false 
+  style_footerabovecolumn3: false  
+  menu_footerabovecolumn4: false 
+  style_footerabovecolumn4: false  
+  menu_footercellcolumn1: false 
+  style_footercellcolumn1: false  
+  menu_footercellcolumn2: false 
+  style_footercellcolumn2: false  
+  menu_footercellcolumn3: false 
+  style_footercellcolumn3: false  
+  menu_footercellcolumn4: false 
+  style_footercellcolumn4: false  
+  menu_footerbelowcolumn1: false 
+  style_footerbelowcolumn1: false 
+  menu_footerbelowcolumn2: false 
+  style_footerbelowcolumn2: false 
+  menu_footerbelowcolumn3: false 
+  style_footerbelowcolumn3: false 
+  menu_footerbelowcolumn4: false 
+  style_footerbelowcolumn4: false 
+  menu_leftfooterarea: false 
+  style_leftfooterarea: false 
+  menu_centerfooterarea: false 
+  style_centerfooterarea: false 
+  menu_rightfooterarea: false 
+  style_rightfooterarea: false 
+# Information added by Drupal.org packaging script on 2015-10-21
+version: "1.0"
+core: '8.x'
+project: 'drupal'
+datestamp: 1445469654
