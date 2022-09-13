@@ -25,7 +25,8 @@ bootstrap-cdn:
   remote: //maxcdn.bootstrapcdn.com/bootstrap/4.1.3
   css:
     base:
-      //maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css: { weight: 0 }
+      //maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css:
+        { weight: 0 }
   js:
     //maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js: {}
   license:
@@ -43,6 +44,7 @@ global-styling:
       css/base/elements.css: { weight: 1 }
       css/base/layout.css: { weight: 100 }
       css/base/typography.css: {}
+      css/custom.css: {}
     component:
       css/components/alert.css: {}
       css/components/accordion.css: {}
@@ -544,7 +546,8 @@ fonts-id-49:
   remote: //fonts.googleapis.com/css
   css:
     theme:
-      //fonts.googleapis.com/css?family=Barlow:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext: { type: external }
+      //fonts.googleapis.com/css?family=Barlow:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext:
+        { type: external }
   license:
     name: SIL Open Font License, 1.1
     url: //scripts.sil.org/OFL
@@ -555,7 +558,8 @@ fonts-sourcecodepro:
   remote: //fonts.googleapis.com/css
   css:
     theme:
-      //fonts.googleapis.com/css?family=Source+Code+Pro&subset=latin,latin-ext: { type: external }
+      //fonts.googleapis.com/css?family=Source+Code+Pro&subset=latin,latin-ext:
+        { type: external }
   license:
     name: SIL Open Font License, 1.1
     url: //scripts.sil.org/OFL
@@ -566,7 +570,8 @@ fonts-pt-serif:
   remote: //fonts.googleapis.com/css
   css:
     theme:
-      //fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic&subset=latin,latin-ext: { type: external }
+      //fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic&subset=latin,latin-ext:
+        { type: external }
   license:
     name: SIL Open Font License, 1.1
     url: //scripts.sil.org/OFL
